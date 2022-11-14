@@ -5,7 +5,6 @@ Welcome to our OpenMRS-OMOP project!
 As more low and middle-income countries (LMICs) implement electronic health record systems (EHRs), informatics has become an important component of global health. OpenMRS is a popular open-source EHR that has been implemented in over 60 countries. As in high income countries, interoperability and research capabilities remain a challenge. The Observational Medical Outcomes Partnership (OMOP) is one of the most relevant common data models (CDM) to support EHR-based research and data sharing, but its adoption has been limited in LMICs. To address this gap, we developed an OpenMRS to OMOP extract, transform, and load (ETL) tool using Talend. 
 We built on existing documentation to develop a comprehensive concept map from OpenMRS to OMOP. The OMOP domains were reviewed for overlapping concepts in OpenMRS, and a core set of tables were selected for ETL development. Specific variables were then identified from OpenMRS tables which mapped to OMOP domain fields. Afterwards, the ETL tool was developed using MySQL Workbench, PostgreSQL, and Talend.   
 
-
 We are a team of physicians, developers, and researchers at Children's Hospital Los Angeles (CHLA) named OPEN. For more information about our work, please visit www.learnwithopen.org & www.avetis.org. If you have any questions, our email is info@learnwithopen.org.
 
 For a complete word document version with screenshots, please download the file from [word document](https://github.com/chla-open-dev/OPENMRS_OMOP_PROJECT/blob/main/Documentation/SetupOmopDocument.docx) from our GitHub files.
@@ -14,8 +13,6 @@ You can also view a limited version of the [below](https://github.com/chla-open-
 
 # ETL – Tutorial to Use Talend to Move Data from OpenMRS to OMOP CDM 
 *by Dr. Barry Levine*
-
-For the complete word document version with screenshots, please download the file from our [GitHub](https://github.com/chla-open-dev/OPENMRS_OMOP_PROJECT/blob/main/Documentation/SetupOmopDocument.docx).
 
 Overview:
 1.	Create the openmrs database	3
@@ -78,7 +75,7 @@ Unzip this file. You’ll see a file structure similar to the following:
 5.	Set up the Common-Data-Model/PostgreSQL database and populate the database with the Snomed Vocabulary
 
 Refer to the following steps 
-Browse to https://github.com/sikder-sab/OPENMRS_OMOP_PROJECT/tree/main/PostgreSQL
+Browse to https://github.com/chla-open-dev/OPENMRS_OMOP_PROJECT/tree/main/PostgreSQL
 
  
 Follow the steps listed above
@@ -158,7 +155,7 @@ Start Talend and you will see something like:
 
  
 
-You will import our project. Then browse to the folder containing the project. The project is found here: https://github.com/sikder-sab/OPENMRS_OMOP_PROJECT
+You will import our project. Then browse to the folder containing the project. The project is found here: https://github.com/chla-open-dev/OPENMRS_OMOP_PROJECT
 The name of the project is CHLA_OMOP_PROJECT. Download the zip file and unzip it in your directory of choice (this will be the project root directory – see below).
 
 
