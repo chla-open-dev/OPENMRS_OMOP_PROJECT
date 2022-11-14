@@ -9,7 +9,7 @@ We are a team of physicians, developers, and researchers at Children's Hospital 
 
 For a complete word document version with screenshots, please download the file from [word document](https://github.com/chla-open-dev/OPENMRS_OMOP_PROJECT/blob/main/Documentation/SetupOmopDocument.docx) from our GitHub files. You can also view a limited version of the [below](https://github.com/chla-open-dev/OPENMRS_OMOP_PROJECT/wiki/Tutorial-Guide:-OpenMRS-to-OMOP-CDM).
 
-# ETL – Tutorial to Use Talend to Move Data from OpenMRS to OMOP CDM 
+# ETL Tutorial - Moving Data from OpenMRS to OMOP CDM using Talend
 *by Dr. Barry Levine*
 
 Overview:
