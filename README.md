@@ -7,9 +7,7 @@ We built on existing documentation to develop a comprehensive concept map from O
 
 We are a team of physicians, developers, and researchers at Children's Hospital Los Angeles (CHLA) named OPEN. For more information about our work, please visit www.learnwithopen.org & www.avetis.org. If you have any questions, our email is info@learnwithopen.org.
 
-For a complete word document version with screenshots, please download the file from [word document](https://github.com/chla-open-dev/OPENMRS_OMOP_PROJECT/blob/main/Documentation/SetupOmopDocument.docx) from our GitHub files.
-
-You can also view a limited version of the [below](https://github.com/chla-open-dev/OPENMRS_OMOP_PROJECT/wiki/Tutorial-Guide:-OpenMRS-to-OMOP-CDM).
+For a complete word document version with screenshots, please download the file from [word document](https://github.com/chla-open-dev/OPENMRS_OMOP_PROJECT/blob/main/Documentation/SetupOmopDocument.docx) from our GitHub files. You can also view a limited version of the [below](https://github.com/chla-open-dev/OPENMRS_OMOP_PROJECT/wiki/Tutorial-Guide:-OpenMRS-to-OMOP-CDM).
 
 # ETL – Tutorial to Use Talend to Move Data from OpenMRS to OMOP CDM 
 *by Dr. Barry Levine*
