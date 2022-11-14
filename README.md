@@ -1,7 +1,4 @@
 # OPENMRS_OMOP_PROJECT
-
-*Team Intro* 
-
 Welcome to our OpenMRS-OMOP project! 
 
 We are a team of physicians, developers, and researchers at Children's Hospital Los Angeles (CHLA) named OPEN. For more information about our work, please visit www.learnwithopen.org & www.avetis.org. If you have any questions, our email is info@learnwithopen.org.
