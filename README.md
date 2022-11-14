@@ -10,7 +10,7 @@ We are a team of physicians, developers, and researchers at Children's Hospital 
 
 For a complete word document version with screenshots, please download the file from [word document](https://github.com/chla-open-dev/OPENMRS_OMOP_PROJECT/blob/main/Documentation/SetupOmopDocument.docx) from our GitHub files.
 
-You can also view a limited version of the [tutorial here](https://github.com/chla-open-dev/OPENMRS_OMOP_PROJECT/wiki/Tutorial-Guide:-OpenMRS-to-OMOP-CDM).
+You can also view a limited version of the [below](https://github.com/chla-open-dev/OPENMRS_OMOP_PROJECT/wiki/Tutorial-Guide:-OpenMRS-to-OMOP-CDM).
 
 # ETL – Tutorial to Use Talend to Move Data from OpenMRS to OMOP CDM 
 *by Dr. Barry Levine*
@@ -24,8 +24,6 @@ Overview:
 4.	Download the ATHENA SNOMED VOCABULARY	5
 5.	Set up the Common-Data-Model/PostgreSQL database and populate the database with the Snomed Vocabulary	6
 6.	Set up Talend – create jobs to move data from source to target	20
-
- 
 
 The ETL scripts we used were based on the following document:
 https://wiki.openmrs.org/download/attachments/84476300/OpenMRS%20ETL.docx?version=1&modificationDate=1436743360000&api=v2 
