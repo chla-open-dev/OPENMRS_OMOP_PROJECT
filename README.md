@@ -15,7 +15,7 @@ You can also view a limited version of the [below](https://github.com/chla-open-
 # ETL – Tutorial to Use Talend to Move Data from OpenMRS to OMOP CDM 
 *by Dr. Barry Levine*
 
-For the complete word document version with screenshots, please download the file from our [GitHub](https://github.com/sikder-sab/OPENMRS_OMOP_PROJECT/blob/main/Documentation/SetupOmopDocument.docx).
+For the complete word document version with screenshots, please download the file from our [GitHub](https://github.com/chla-open-dev/OPENMRS_OMOP_PROJECT/blob/main/Documentation/SetupOmopDocument.docx).
 
 Overview:
 1.	Create the openmrs database	3
